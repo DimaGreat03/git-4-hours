@@ -1,1 +1,2 @@
 Inside folder 2
+ also changed in the main branch
